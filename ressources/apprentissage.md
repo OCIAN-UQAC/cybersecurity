@@ -3,5 +3,8 @@
 ## CTF débutant à avancée
 - https://ringzer0ctf.com/
 
-## Introduction à la cybersécurité
+## Ressources techniques
 - https://owasp.org/Top10/
+- https://www.hackerone.com/
+- https://www.hackerone.com/hackers/hacker101
+- https://github.com/onlurking/awesome-infosec
